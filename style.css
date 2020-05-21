@@ -3,7 +3,9 @@ body {
 	background-color: orange;	
 
 }
-
+#TOP{
+	text-align: center;
+}
 #TOP a:link {
 	color: white;
 }
