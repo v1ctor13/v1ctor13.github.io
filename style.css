@@ -3,3 +3,14 @@ body {
 	background-color: orange;	
 
 }
+
+#TOP a:link {
+	color: white;
+}
+#TOP a:visited {
+	color: white;
+}
+#TOP a:hover {
+	color: #ffbb33;
+	background-color: white;
+}
